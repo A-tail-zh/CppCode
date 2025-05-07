@@ -19,12 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="检验幻方.cpp" />
+    <ClCompile Include="反转链表.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="list_node.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
