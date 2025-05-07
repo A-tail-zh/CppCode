@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="翻转数组.cpp">
+    <ClCompile Include="检验幻方.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
