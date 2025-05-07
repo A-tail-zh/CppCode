@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="指针数组和数组指针.cpp" />
+    <ClCompile Include="引用.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
