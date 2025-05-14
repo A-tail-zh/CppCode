@@ -19,9 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="反转链表.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
@@ -30,6 +27,9 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="CppCode.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="自增cpp.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
