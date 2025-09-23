@@ -24,12 +24,13 @@
   <ItemGroup>
     <ClInclude Include="list_node.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="SqList.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="CppCode.rc" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="自增cpp.cpp" />
+    <ClCompile Include="19.01.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

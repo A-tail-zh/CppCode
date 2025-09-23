@@ -26,6 +26,9 @@
     <ClInclude Include="list_node.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="SqList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="CppCode.rc">
@@ -33,7 +36,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="自增cpp.cpp">
+    <ClCompile Include="19.01.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
